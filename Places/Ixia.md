@@ -1,0 +1,2 @@
+Its people are called "Ixians" and are a race of demon-looking fellas, known to have some control / resistance to fire (currently only [[Abrams]], [[Infernus]], and [[Apollo]]).
+There is North and South Ixia, both in an outer plane to our world. South Ixia is the 52nd state in the US. 

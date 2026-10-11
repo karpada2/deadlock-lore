@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "7dcd16983e78cb9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "51c9088a0e8f6638",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7be2d99fdf527a69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organizations/OSIC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OSIC"
+            },
+            "group": "0af7f979f8e857a9"
+          }
+        ]
+      },
+      {
+        "id": "088956b73446ffe6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6ea435bb6d30f95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organizations/OSIC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OSIC"
+            },
+            "group": "0af7f979f8e857a9"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "facb7adddd2298a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3e5b0a3392d26db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09ecbbb1b0329cd6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e44c5ebe55c8d4e1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ef5bcee0a575d731",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6c439620c3daf796",
+    "type": "split",
+    "children": [
+      {
+        "id": "333ce5cff1a27ffb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae2603e730928206",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Organizations/OSIC.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for OSIC"
+            }
+          },
+          {
+            "id": "976294b89461651f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Organizations/OSIC.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from OSIC"
+            }
+          },
+          {
+            "id": "ef6281069e47dcfc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "14199a394e17fe9f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a75dc0b2b9f8572a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Organizations/OSIC.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of OSIC"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "7be2d99fdf527a69",
+  "lastOpenFiles": [
+    "Characters/Abrams/Abrams.md",
+    "Organizations/OSIC.md",
+    "Places/Ixia.md",
+    "Characters/Abrams/Pasted image 20261011130433.png",
+    "Characters/Abrams",
+    "Pasted image 20261011130428.png",
+    "Characters/Untitled.md",
+    "Untitled.md",
+    "Welcome.md",
+    "Organizations",
+    "Places",
+    "Characters"
+  ]
+}

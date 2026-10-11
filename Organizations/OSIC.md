@@ -1,0 +1,1 @@
+Kind of like the FBI but occult and cool. Notably, [[Haze]] works for the OSIC under the Sandman division (people who come into other's dreams to assassinate them).
